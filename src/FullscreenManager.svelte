@@ -1,5 +1,5 @@
 <script>
-  import { browser } from "$app/env";
+  import { browser } from "$app/environment";
 
   import { onMount, onDestroy } from "svelte";
   import { screenfull } from "./libs/screenfull.js";
